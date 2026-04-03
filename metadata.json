@@ -1,0 +1,7 @@
+{
+  "name": "Tiendas Punkay",
+  "description": "Tu mejor aliado en regalos. Tienda online estilo marketplace con visualización de productos mediante IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
